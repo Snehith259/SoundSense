@@ -1,0 +1,10 @@
+.git
+.env
+.env.*
+.jwt_secret
+soundsense.db
+uploads/
+node_modules/
+__pycache__/
+.pytest_cache/
+*.py[cod]
